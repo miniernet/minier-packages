@@ -1,1 +1,2 @@
-# minier-packages
+# Minier Packages
+Packages for Minier Terminal
